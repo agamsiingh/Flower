@@ -1,22 +1,4 @@
-# Flower
-This repository contains examples and tutorials for the web technologies HTML, SCSS, and JS.
+# CSS Blossoming Flowers at Magical Night 
 
-### Downlode Source code from github
-Using This : 
+A Pen created on CodePen.io. Original URL: [https://codepen.io/mdusmanansari/pen/BamepLe](https://codepen.io/mdusmanansari/pen/BamepLe).
 
-```
-$ git clone https://github.com/agamsiingh/Flower.git
-```  
-### Downlode Ruby 
-Downlode Ruby for the SCSS
-```
-npm i -g scss
-```
-
-
-
-
-Project run successfully
-
-
-![flower](https://user-images.githubusercontent.com/63699592/236506187-282f2dc3-cbcb-447c-81f4-63b127233ab9.png)
